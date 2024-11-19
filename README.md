@@ -10,12 +10,12 @@ This project demonstrates the application of various dimensionality reduction te
 - Visualization of decision boundaries on both training and test sets.
 
 ## Dataset
-The dataset used is Wine.csv, which contains:
-Features: Chemical properties of wine.
-Labels: Wine categories (target variable).
-Dataset structure:
-Independent variables: Columns 0 to -2.
-Dependent variable: Last column.
+- The dataset used is `Wine.csv`, which contains:
+  - Features: Chemical properties of wine.
+  - Labels: Wine categories (target variable).
+- Dataset structure:
+  - Independent variables: Columns 0 to -2.
+  - Dependent variable: Last column.
 
 ## Techniques
 ### 1. Principal Component Analysis (PCA)
@@ -31,8 +31,8 @@ Dependent variable: Last column.
 - `git clone https://github.com/JoeHamed/Dimensionality-Reduction-Python-.git`
 
 ## Usage
-Run the script to perform dimensionality reduction and classification:
-python dimensionality_reduction.py
+- Run the script to perform dimensionality reduction and classification:
+  `python dimensionality_reduction.py`
 
 The script will:
 
