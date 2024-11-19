@@ -29,10 +29,10 @@ Reduces dimensionality while maximizing class separability.
 3. Kernel Principal Component Analysis (Kernel PCA)
 Applies the kernel trick to perform PCA in higher-dimensional space for non-linear separability.
 
-Clone the repository:
+## Clone the repository:
 git clone https://github.com/your-username/dimensionality-reduction.git
 
-Usage
+## Usage
 Run the script to perform dimensionality reduction and classification:
 python dimensionality_reduction.py
 
@@ -42,7 +42,7 @@ Apply PCA, LDA, and Kernel PCA to the dataset.
 Train a Logistic Regression model.
 Output confusion matrices, accuracy scores, and decision boundary visualizations for each technique.
 
-Results
+## Results
 PCA
 Accuracy: ~97%
 Confusion Matrix:
