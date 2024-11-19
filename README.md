@@ -1,7 +1,7 @@
 # Dimensionality Reduction and Classification
-This project demonstrates the application of various dimensionality reduction techniques — PCA, LDA, and Kernel PCA — followed by Logistic Regression for classification.
+This project demonstrates the application of various dimensionality reduction techniques — `PCA`, `LDA`, and `Kernel PCA` — followed by Logistic Regression for classification.
 
-Features
+## Features
 Dimensionality reduction using:
 Principal Component Analysis (PCA)
 Linear Discriminant Analysis (LDA)
