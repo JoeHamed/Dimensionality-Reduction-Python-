@@ -48,9 +48,11 @@ This project demonstrates the application of various dimensionality reduction te
 ### PCA
 - Accuracy: `~97%`
 - Confusion Matrix:
+  
 [[13  1  0]
 
  [ 0 15  1]
+ 
  [ 0  0  7]]
  
 ### LDA
