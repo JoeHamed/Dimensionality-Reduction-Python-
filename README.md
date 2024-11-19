@@ -49,22 +49,26 @@ This project demonstrates the application of various dimensionality reduction te
 - Accuracy: `~97%`
 - Confusion Matrix:
   
-| 13  1  0 |  
-| 0  15  1 |  
-| 0  0   7   |  
+[[13  1  0]
+ [ 0 15  1]
+ [ 0  0  7]]
+
  
 ### LDA
 - Accuracy: `~100%`
 - Confusion Matrix:
 
-| 14  0  0 |  
-| 0  16  0 |  
-| 0  0   6 |  
+[[14  0  0]
+ [ 0 16  0]
+ [ 0  0  6]]
+ 
 
  
 ### Kernel PCA
 - Accuracy: `~100%`
 - Confusion Matrix:
+  
 [[14  0  0]
  [ 0 16  0]
  [ 0  0  6]]
+
