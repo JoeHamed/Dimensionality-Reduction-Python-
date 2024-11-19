@@ -31,11 +31,15 @@ This project demonstrates the application of various dimensionality reduction te
 - `git clone https://github.com/JoeHamed/Dimensionality-Reduction-Python-.git`
 
 ## Usage
-- Run the script to perform dimensionality reduction and classification:
-  `python dimensionality_reduction.py`
+- Dimensionality reduction provides several key benefits:
+  - **Improved Speed**: Reduces computational time by lowering the number of features in the dataset.
+  - **Better Model Performance**: Eliminates irrelevant features, reducing noise and improving accuracy.
+  - **Avoids Overfitting**: Helps models generalize better by focusing on significant features.
+  - **Enhanced Visualization**: Makes it easier to visualize data by reducing it to 2D or 3D.
+  - **Simplified Storage**: Smaller datasets require less memory and storage.
+- It’s particularly useful for handling high-dimensional data efficiently while retaining important information.
 
-The script will:
-
+## The script will:
 Apply PCA, LDA, and Kernel PCA to the dataset.
 Train a Logistic Regression model.
 Output confusion matrices, accuracy scores, and decision boundary visualizations for each technique.
