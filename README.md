@@ -51,7 +51,7 @@ This project demonstrates the application of various dimensionality reduction te
   
 | 13  1  0 |  
 | 0  15  1 |  
-| 0  0   7 |  
+| 0  0   7   |  
  
 ### LDA
 - Accuracy: `~100%`
