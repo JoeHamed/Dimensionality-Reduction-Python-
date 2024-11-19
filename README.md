@@ -1,5 +1,5 @@
 # Dimensionality Reduction and Classification
-This project demonstrates the application of various dimensionality reduction techniques — `PCA`, `LDA`, and `Kernel PCA` — followed by Logistic Regression for classification.
+This project demonstrates the application of various dimensionality reduction techniques — `PCA`, `LDA`, and `Kernel PCA` — followed by `Logistic Regression` for classification.
 
 ## Features
 - Dimensionality reduction using:
@@ -49,6 +49,7 @@ This project demonstrates the application of various dimensionality reduction te
 - Accuracy: `~97%`
 - Confusion Matrix:
 [[13  1  0]
+
  [ 0 15  1]
  [ 0  0  7]]
  
