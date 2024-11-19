@@ -45,21 +45,23 @@ Train a Logistic Regression model.
 Output confusion matrices, accuracy scores, and decision boundary visualizations for each technique.
 
 ## Results
-PCA
-Accuracy: ~97%
-Confusion Matrix:
+### PCA
+- Accuracy: `~97%`
+- Confusion Matrix:
 [[13  1  0]
  [ 0 15  1]
  [ 0  0  7]]
-LDA
-Accuracy: ~100%
-Confusion Matrix:
+ 
+### LDA
+- Accuracy: `~100%`
+- Confusion Matrix:
 [[14  0  0]
  [ 0 16  0]
  [ 0  0  6]]
-Kernel PCA
-Accuracy: ~100%
-Confusion Matrix:
+ 
+### Kernel PCA
+- Accuracy: `~100%`
+- Confusion Matrix:
 [[14  0  0]
  [ 0 16  0]
  [ 0  0  6]]
