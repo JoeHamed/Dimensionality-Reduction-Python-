@@ -46,7 +46,7 @@ This project demonstrates the application of various dimensionality reduction te
 
 ## Results
 
-### PCA
+### - PCA
 - Accuracy: `~97%`
 - Confusion Matrix:
   
@@ -57,7 +57,7 @@ This project demonstrates the application of various dimensionality reduction te
 #### [ 0  0  7]]
 
  
-### LDA
+### - LDA
 - Accuracy: `~100%`
 - Confusion Matrix:
 
@@ -68,7 +68,7 @@ This project demonstrates the application of various dimensionality reduction te
 #### [ 0  0  6]]
  
 
-### Kernel PCA
+### - Kernel PCA
 - Accuracy: `~100%`
 - Confusion Matrix:
   
