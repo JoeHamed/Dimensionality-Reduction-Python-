@@ -60,11 +60,11 @@ This project demonstrates the application of various dimensionality reduction te
 - Accuracy: `~100%`
 - Confusion Matrix:
 
-[[14  0  0]
+#### [[14  0  0]
 
- [ 0 16  0]
+#### [ 0 16  0]
  
- [ 0  0  6]]
+#### [ 0  0  6]]
  
 
  
@@ -72,9 +72,9 @@ This project demonstrates the application of various dimensionality reduction te
 - Accuracy: `~100%`
 - Confusion Matrix:
   
-[[14  0  0]
+#### [[14  0  0]
 
- [ 0 16  0]
+#### [ 0 16  0]
  
- [ 0  0  6]]
+#### [ 0  0  6]]
 
