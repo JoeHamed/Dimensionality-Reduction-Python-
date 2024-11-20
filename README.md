@@ -39,12 +39,13 @@ This project demonstrates the application of various dimensionality reduction te
   - **Simplified Storage**: Smaller datasets require less memory and storage.
 - It’s particularly useful for handling high-dimensional data efficiently while retaining important information.
 
-## The script will:
+## The script
 - Apply PCA, LDA, and Kernel PCA to the dataset.
 - Train a Logistic Regression model.
 - Output confusion matrices, accuracy scores, and decision boundary visualizations for each technique.
 
 ## Results
+
 ### PCA
 - Accuracy: `~97%`
 - Confusion Matrix:
@@ -67,7 +68,6 @@ This project demonstrates the application of various dimensionality reduction te
 #### [ 0  0  6]]
  
 
- 
 ### Kernel PCA
 - Accuracy: `~100%`
 - Confusion Matrix:
