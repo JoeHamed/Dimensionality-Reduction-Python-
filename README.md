@@ -50,7 +50,9 @@ This project demonstrates the application of various dimensionality reduction te
 - Confusion Matrix:
   
 [[13  1  0]
+
  [ 0 15  1]
+ 
  [ 0  0  7]]
 
  
@@ -59,7 +61,9 @@ This project demonstrates the application of various dimensionality reduction te
 - Confusion Matrix:
 
 [[14  0  0]
+
  [ 0 16  0]
+ 
  [ 0  0  6]]
  
 
@@ -69,6 +73,8 @@ This project demonstrates the application of various dimensionality reduction te
 - Confusion Matrix:
   
 [[14  0  0]
+
  [ 0 16  0]
+ 
  [ 0  0  6]]
 
